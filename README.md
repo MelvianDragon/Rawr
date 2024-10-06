@@ -6,6 +6,10 @@ In Rawr, programs are structured into paragraphs, each paragraph consisting of n
 
 It is written in RPython, allowing it to be JIT-compiled. However, it can also be executed in regular Python.
 
+## QUICK WARNING
+
+**It is absolutely possible that there will be bugs with certain functionality, as I haven't fully tested all of the features yet.** There's also a lot of room for improvement, such as with error messages. However, you can take a look at it and play around with it a little. If _anything_ about the documentation confuses you, please message me, e-mail me, or maybe even open an issue!
+
 ## Examples
 
 ### "Hello, world!" program
